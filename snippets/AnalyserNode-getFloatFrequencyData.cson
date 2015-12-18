@@ -1,0 +1,4 @@
+'.source.js':
+   'Analyser Node Get Float Frequency Data':
+     'prefix': 'waangff'
+     'body': '${1:AnalyserNode}.getFloatFrequencyData(${2:dataArray});'

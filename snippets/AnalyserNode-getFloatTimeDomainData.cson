@@ -1,0 +1,4 @@
+'.source.js':
+   'Analyser Node Get Float Time Domain Data':
+     'prefix': 'waangft'
+     'body': '${1:AnalyserNode}.getFloatTimeDomainData(${2:dataArray});'

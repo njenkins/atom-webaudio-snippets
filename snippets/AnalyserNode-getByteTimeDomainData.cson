@@ -1,0 +1,4 @@
+'.source.js':
+   'Analyser Node Get Byte Time Domain Data':
+     'prefix': 'waangbt'
+     'body': '${1:AnalyserNode}.getByteTimeDomainData(${2:dataArray});'
