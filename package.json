@@ -4,6 +4,10 @@
   "description": "Web Audio API Snippets for Atom",
   "repository": "https://github.com/njenkins/atom-webaudio-snippets.git",
   "license": "MIT",
+  "keywords": [
+    "javascript",
+    "audio"
+  ],
   "engines": {
     "atom": ">0.50.0"
   }
