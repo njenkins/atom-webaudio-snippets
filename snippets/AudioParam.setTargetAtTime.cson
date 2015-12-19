@@ -1,0 +1,4 @@
+'.source.js':
+   'Audio Param Set Target At Time':
+     'prefix': 'waapstat'
+     'body': '${1:AudioParam}.setTargetAtTime(${2:target}, ${3:startTime}, ${4:timeConstant});'

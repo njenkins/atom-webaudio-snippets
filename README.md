@@ -196,3 +196,34 @@ ${1:AudioNode}.connect(${2:AudioNode or AudioParam});
 ```js
 ${1:AudioNode}.disconnect(${2:destination}, ${3:output}, ${4:input});
 ```
+## Audio Param
+### cancelScheduledValues
+#### [waapcsv]
+```js
+${1:AudioParam}.cancelScheduledValues(${2:startTime});
+```
+### exponentialRampToValueAtTime
+#### [waapertv]
+```js
+${1:AudioParam}.exponentialRampToValueAtTime(${2:value}, ${3:endTime});
+```
+### linearRampToValueAtTime
+#### [waaplrtv]
+```js
+${1:AudioParam}.linearRampToValueAtTime(${2:value}, ${3:endTime});
+```
+### setTargetAtTime
+#### [waapstat]
+```js
+${1:AudioParam}.setTargetAtTime(${2:target}, ${3:startTime}, ${4:timeConstant});
+```
+### setValueAtTime
+#### [waapsvat]
+```js
+${1:AudioParam}.setValueAtTime(${2:value}, ${3:startTime});
+```
+### setValueCurveAtTime
+#### [waapsvcat]
+```js
+${1:AudioParam}.setValueCurveAtTime(${2:values}, ${3:startTime}, ${4:duration});
+```

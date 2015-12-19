@@ -1,0 +1,4 @@
+'.source.js':
+   'Audio Param Cancel Scheduled Values':
+     'prefix': 'waapcsv'
+     'body': '${1:AudioParam}.cancelScheduledValues(${2:startTime});'
