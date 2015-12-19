@@ -239,3 +239,20 @@ ${1:BiquadFilterNode}.getFrequencyResponse(${2:freqHz}, ${3:magResponse}, ${4:ph
 ```js
 ${1:OfflineAudioContext}.startRendering();
 ```
+
+## Oscillator Node
+### setPeriodicWave
+#### [waonsp]
+```js
+${1:OscillatorNode}.setPeriodicWave(${2:periodicWave});
+```
+### start
+#### [waonsta]
+```js
+${1:OscillatorNode}.start(${2:when});
+```
+### stop
+#### [waonsto]
+```js
+${1:OscillatorNode}.stop(${2:when});
+```

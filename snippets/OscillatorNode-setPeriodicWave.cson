@@ -1,0 +1,4 @@
+'.source.js':
+   'Oscillator Node Set Periodic Wave':
+     'prefix': 'waonsp'
+     'body': '${1:OscillatorNode}.setPeriodicWave(${2:periodicWave});'

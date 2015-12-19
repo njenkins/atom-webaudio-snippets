@@ -1,0 +1,4 @@
+'.source.js':
+   'Oscillator Node Stop':
+     'prefix': 'waonsto'
+     'body': '${1:OscillatorNode}.stop(${2:when});'
