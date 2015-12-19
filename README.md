@@ -97,3 +97,83 @@ ${1:AudioContext}.createChannelMerger(${2:numOfInputs});
 ```js
 ${1:AudioContext}.createChannelSplitter(${2:numOfInputs});
 ```
+### createConvolver
+#### [waaccco]
+```js
+${1:AudioContext}.createConvolver();
+```
+### createDelay
+#### [waaccd]
+```js
+${1:AudioContext}.createDelay(${2:maxDelayTime});
+```
+### createDynamicsCompressor
+#### [waaccdc]
+```js
+${1:AudioContext}.createDynamicsCompressor();
+```
+### createGain
+#### [waaccg]
+```js
+${1:AudioContext}.createGain();
+```
+### createMediaElementSource
+#### [waaccme]
+```js
+${1:AudioContext}.createMediaElementSource(${2:myMediaElement});
+```
+### createMediaStreamDestination
+#### [waaccmsd]
+```js
+${1:AudioContext}.createMediaStreamDestination();
+```
+### createMediaStreamsource
+#### [waaccmss]
+```js
+${1:AudioContext}.createMediaStreamSource(${2:stream});
+```
+### createOscillator
+#### [waaccos]
+```js
+${1:AudioContext}.createOscillator();
+```
+### createPanner
+#### [waaccp]
+```js
+${1:AudioContext}.createPanner();
+```
+### createPeriodicWave
+#### [waaccpw]
+```js
+${1:AudioContext}.createPeriodicWave(${2:real}, ${3:imag}, ${4:options});
+```
+### createScriptProcessor
+#### [waaccsp]
+```js
+${1:AudioContext}.createScriptProcessor(${2:bufferSize}, ${3:numberOfInputChannels}, ${4:numberOfOutputChannels});
+```
+### createStereoPanner
+#### [waaccspa]
+```js
+${1:AudioContext}.createStereoPanner();
+```
+### createWaveShaper
+#### [waaccws]
+```js
+${1:AudioContext}.createWaveShaper();
+```
+### decodeAudioData
+#### [waacda]
+```js
+${1:AudioContext}.decodeAudioData({2:audioData}).then(${3:function(decodedData) \{/* stuff here*/\}});
+```
+### resume
+#### [waacr]
+```js
+${1:AudioContext}.resume().then(${2:function() \{ /*stuff here */ \}});
+```
+### suspend
+#### [waacsu]
+```js
+${1:AudioContext}.suspend().then(${2:function() \{ /*stuff here*/ \}});;
+```
