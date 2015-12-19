@@ -233,3 +233,9 @@ ${1:AudioParam}.setValueCurveAtTime(${2:values}, ${3:startTime}, ${4:duration});
 ```js
 ${1:BiquadFilterNode}.getFrequencyResponse(${2:freqHz}, ${3:magResponse}, ${4:phaseResponse});
 ```
+## Offline Audio Context
+### startRendering
+#### [waoa]
+```js
+${1:OfflineAudioContext}.startRendering();
+```
