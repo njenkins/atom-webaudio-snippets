@@ -1,6 +1,6 @@
 # Web Audio API Snippets for Atom
 Snippets for working with the [Web Audio API](#) within [Atom](http://atom.io)
-This package currently supports AnalyserNode, AudioBuffer, AudioContext and AudioListener methods. More to be added.
+This package currently supports AnalyserNode, AudioBuffer, AudioContext, AudioListener and AudioNode methods. More to be added.
 
 ## AnalyserNode
 ### getByteFrequencyData
@@ -183,4 +183,10 @@ ${1:AudioContext}.suspend().then(${2:function() \{ /*stuff here*/ \}});;
 #### [waalso]
 ```js
 ${1:AudioListener}.setOrientation(${2:frontX},${3:frontY},${4:frontZ},${5:upX},${6:upY},${7:upZ});
+```
+## Audio Node
+### Connect
+#### [waanc]
+```js
+${1:AudioNode}.connect(${2:AudioNode or AudioParam});
 ```
