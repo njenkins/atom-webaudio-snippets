@@ -1,0 +1,4 @@
+'.source.js':
+   'Biquad Filter Node Get Frequency Response':
+     'prefix': 'wabf'
+     'body': '${1:BiquadFilterNode}.getFrequencyResponse(${2:freqHz}, ${3:magResponse}, ${4:phaseResponse});'

@@ -227,3 +227,9 @@ ${1:AudioParam}.setValueAtTime(${2:value}, ${3:startTime});
 ```js
 ${1:AudioParam}.setValueCurveAtTime(${2:values}, ${3:startTime}, ${4:duration});
 ```
+## Biquad Filter Node
+### getFrequencyResponse
+#### [wabf]
+```js
+${1:BiquadFilterNode}.getFrequencyResponse(${2:freqHz}, ${3:magResponse}, ${4:phaseResponse});
+```
