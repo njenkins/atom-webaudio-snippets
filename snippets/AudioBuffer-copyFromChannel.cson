@@ -1,0 +1,4 @@
+'.source.js':
+   'Audio Buffer Copy From Channel':
+     'prefix': 'waabcfc'
+     'body': '${1:AudioBuffer}.copyFromChannel(${2:destination},${3:channelNumber},${4:startInChannel});'
