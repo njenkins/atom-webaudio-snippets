@@ -1,0 +1,4 @@
+'.source.js':
+   'Audio Listener Set Orientation':
+     'prefix': 'waalso'
+     'body': '${1:AudioListener}.setOrientation(${2:frontX},${3:frontY},${4:frontZ},${5:upX},${6:upY},${7:upZ});'

@@ -177,3 +177,9 @@ ${1:AudioContext}.resume().then(${2:function() \{ /*stuff here */ \}});
 ```js
 ${1:AudioContext}.suspend().then(${2:function() \{ /*stuff here*/ \}});;
 ```
+## Audio Listener
+### setOrientation
+#### [waalso]
+```js
+${1:AudioListener}.setOrientation(${2:frontX},${3:frontY},${4:frontZ},${5:upX},${6:upY},${7:upZ});
+```
