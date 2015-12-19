@@ -55,3 +55,45 @@ ${1:AudioBufferSourceNode}.start(${2:when}, ${3:offset}, ${4:duration});
 ```js
 ${1:AudioBufferSourceNode}.stop(${2:when});
 ```
+
+## AudioContext
+### close
+#### [waaccl]
+```js
+${1:AudioContext}.close().then(${2:function() \{ /*stuff here*/\}});
+```
+### createAnalyser
+#### [waacca]
+```js
+${1:AudioContext}.createAnalyser();
+```
+### createAudioWorker
+#### [waaccaw]
+```js
+${1:AudioContext}.createAudioWorker();
+```
+### createBiquadFilter
+#### [waaccbf]
+```js
+${1:AudioContext}.createBiquadFilter();
+```
+### createBuffer
+#### [waaccbu]
+```js
+${1:AudioContext}.createBuffer(${2:numOfChannels}, ${3:length}, ${4:sampleRate});
+```
+### createBufferSource
+#### [waaccbs]
+```js
+${1:AudioContext}.createBufferSource();
+```
+### createChannelMerger
+#### [waacccm]
+```js
+${1:AudioContext}.createChannelMerger(${2:numOfInputs});
+```
+### createChannelSplitter
+#### [waacccs]
+```js
+${1:AudioContext}.createChannelSplitter(${2:numOfInputs});
+```
