@@ -1,0 +1,4 @@
+'.source.js':
+   'Audio Node Disconnect':
+     'prefix': 'waand'
+     'body': '${1:AudioNode}.disconnect(${2:destination}, ${3:output}, ${4:input});'

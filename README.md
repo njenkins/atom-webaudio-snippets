@@ -190,3 +190,9 @@ ${1:AudioListener}.setOrientation(${2:frontX},${3:frontY},${4:frontZ},${5:upX},$
 ```js
 ${1:AudioNode}.connect(${2:AudioNode or AudioParam});
 ```
+
+### Disconnect
+#### [waand]
+```js
+${1:AudioNode}.disconnect(${2:destination}, ${3:output}, ${4:input});
+```
