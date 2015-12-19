@@ -44,3 +44,14 @@ ${1:AudioBuffer}.copyToChannel(${2:source},${3:channelNumber},${4:startInChannel
 ```js
 ${1:AudioBuffer}.getChannelData(${2:channel});
 ```
+## AudioBufferSourceNode
+### start
+#### [waabsnsta]
+```js
+${1:AudioBufferSourceNode}.start(${2:when}, ${3:offset}, ${4:duration});
+```
+### stop
+#### [waabsnsto]
+```js
+${1:AudioBufferSourceNode}.stop(${2:when});
+```

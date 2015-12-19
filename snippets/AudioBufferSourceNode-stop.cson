@@ -1,0 +1,4 @@
+'.source.js':
+   'Audio Buffer Source Node Stop':
+     'prefix': 'waabsnsto'
+     'body': '${1:AudioBufferSourceNode}.stop(${2:when});'
