@@ -1,4 +1,4 @@
 '.source.js':
-   'TODO':
-     'prefix': 'TODO'
-     'body': 'TODO'
+   'Audio Context Create Buffer':
+     'prefix': 'waaccbu'
+     'body': '${1:AudioContext}.createBuffer(${2:numOfChannels}, ${3:length}, ${4:sampleRate});'

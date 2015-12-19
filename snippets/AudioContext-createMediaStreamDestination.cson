@@ -1,4 +1,4 @@
 '.source.js':
-   'TODO':
-     'prefix': 'TODO'
-     'body': 'TODO'
+   'Audio Context Create Media Stream Destination':
+     'prefix': 'waaccmsd'
+     'body': '${1:AudioContext}.createMediaStreamDestination();'

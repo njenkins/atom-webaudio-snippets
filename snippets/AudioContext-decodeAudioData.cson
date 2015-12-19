@@ -1,4 +1,4 @@
 '.source.js':
-   'TODO':
-     'prefix': 'TODO'
-     'body': 'TODO'
+   'Audio Context Decode Audio Data':
+     'prefix': 'waacda'
+     'body': '${1:AudioContext}.decodeAudioData({2:audioData}).then(${3:function(decodedData) \{/* stuff here*/\}});'

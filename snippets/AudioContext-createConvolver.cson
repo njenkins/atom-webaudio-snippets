@@ -1,4 +1,4 @@
 '.source.js':
-   'TODO':
-     'prefix': 'TODO'
-     'body': 'TODO'
+   'Audio Context Create Convolver':
+     'prefix': 'waaccco'
+     'body': '${1:AudioContext}.createConvolver();'

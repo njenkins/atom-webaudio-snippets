@@ -1,4 +1,4 @@
 '.source.js':
-   'TODO':
-     'prefix': 'TODO'
-     'body': 'TODO'
+   'Audio Context Create Oscillator':
+     'prefix': 'waaccos'
+     'body': '${1:AudioContext}.createOscillator();'

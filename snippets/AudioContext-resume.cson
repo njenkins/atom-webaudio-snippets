@@ -1,4 +1,4 @@
 '.source.js':
-   'TODO':
-     'prefix': 'TODO'
-     'body': 'TODO'
+   'Audio Context Resume':
+     'prefix': 'waacr'
+     'body': '${1:AudioContext}.resume().then(${2:function() \{ /*stuff here */ \}});'

@@ -1,4 +1,4 @@
 '.source.js':
-   'TODO':
-     'prefix': 'TODO'
-     'body': 'TODO'
+   'Audio Context Create Delay':
+     'prefix': 'waaccd'
+     'body': '${1:AudioContext}.createDelay(${2:maxDelayTime});'

@@ -1,4 +1,4 @@
 '.source.js':
-   'TODO':
-     'prefix': 'TODO'
-     'body': 'TODO'
+   'Audio Context Create Channel Merger':
+     'prefix': 'waacccm'
+     'body': '${1:AudioContext}.createChannelMerger(${2:numOfInputs});'

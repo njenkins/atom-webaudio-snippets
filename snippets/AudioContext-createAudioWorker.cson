@@ -1,4 +1,4 @@
 '.source.js':
-   'TODO':
-     'prefix': 'TODO'
-     'body': 'TODO'
+   'Audio Context Create Audio Worker':
+     'prefix': 'waaccaw'
+     'body': '${1:AudioContext}.createAudioWorker();'

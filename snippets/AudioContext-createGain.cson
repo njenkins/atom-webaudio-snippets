@@ -1,4 +1,4 @@
 '.source.js':
-   'TODO':
-     'prefix': 'TODO'
-     'body': 'TODO'
+   'Audio Context Create Gain':
+     'prefix': 'waaccg'
+     'body': '${1:AudioContext}.createGain();'
