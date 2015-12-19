@@ -1,0 +1,4 @@
+'.source.js':
+   'Panner Node Set Orientation':
+     'prefix': 'wapnso'
+     'body': '${1:PannerNode}.setOrientation(${2:x}, ${3:y}, ${4:z});'

@@ -1,0 +1,4 @@
+'.source.js':
+   'Panner Node Set Position':
+     'prefix': 'wapnsp'
+     'body': '${1:PannerNode}.setPosition(${2:x}, ${3:y}, ${4:z});'
