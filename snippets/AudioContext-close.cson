@@ -1,0 +1,4 @@
+'.source.js':
+   'Audio Context Close':
+     'prefix': 'waaccl'
+     'body': '${1:AudioContext}.close().then(${2:function() \{ /*stuff here*/\}});'

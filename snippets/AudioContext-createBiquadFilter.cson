@@ -1,0 +1,4 @@
+'.source.js':
+   'Audio Context Create Biquad Filter':
+     'prefix': 'waaccbf'
+     'body': '${1:AudioContext}.createBiquadFilter();'
