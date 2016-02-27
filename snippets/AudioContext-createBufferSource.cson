@@ -1,4 +1,4 @@
 '.source.js':
    'Audio Context Create Buffer Source':
      'prefix': 'waaccbs'
-     'body': '${1:AudioContext}.createBufferSource();'
+     'body': '${1:AudioContext}.createBufferSource();$0'

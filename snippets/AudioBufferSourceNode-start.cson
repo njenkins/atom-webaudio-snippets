@@ -1,4 +1,4 @@
 '.source.js':
    'Audio Buffer Source Node Start':
      'prefix': 'waabsnsta'
-     'body': '${1:AudioBufferSourceNode}.start(${2:when}, ${3:offset}, ${4:duration});'
+     'body': '${1:AudioBufferSourceNode}.start(${2:when}, ${3:offset}, ${4:duration});$0'

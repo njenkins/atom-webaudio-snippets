@@ -1,4 +1,4 @@
 '.source.js':
    'Audio Context Create Wave Shaper':
      'prefix': 'waaccws'
-     'body': '${1:AudioContext}.createWaveShaper();'
+     'body': '${1:AudioContext}.createWaveShaper();$0'

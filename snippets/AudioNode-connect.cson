@@ -1,4 +1,4 @@
 '.source.js':
    'Audio Node Connect':
      'prefix': 'waanc'
-     'body': '${1:AudioNode}.connect(${2:AudioNode or AudioParam});'
+     'body': '${1:AudioNode}.connect(${2:AudioNode or AudioParam});$0'

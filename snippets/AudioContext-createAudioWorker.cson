@@ -1,4 +1,4 @@
 '.source.js':
    'Audio Context Create Audio Worker':
      'prefix': 'waaccaw'
-     'body': '${1:AudioContext}.createAudioWorker();'
+     'body': '${1:AudioContext}.createAudioWorker();$0'

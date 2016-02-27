@@ -1,4 +1,4 @@
 '.source.js':
    'Audio Context Create Channel Splitter':
      'prefix': 'waacccs'
-     'body': '${1:AudioContext}.createChannelSplitter(${2:numOfInputs});'
+     'body': '${1:AudioContext}.createChannelSplitter(${2:numOfInputs});$0'

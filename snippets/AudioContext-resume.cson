@@ -1,4 +1,4 @@
 '.source.js':
    'Audio Context Resume':
      'prefix': 'waacr'
-     'body': '${1:AudioContext}.resume().then(${2:function() \{ /*stuff here */ \}});'
+     'body': '${1:AudioContext}.resume().then(${2:function() \{ /*stuff here */ \}});$0'

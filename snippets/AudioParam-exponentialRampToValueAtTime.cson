@@ -1,4 +1,4 @@
 '.source.js':
    'Audio Param Exponential Ramp To Value At Time':
      'prefix': 'waapertv'
-     'body': '${1:AudioParam}.exponentialRampToValueAtTime(${2:value}, ${3:endTime});'
+     'body': '${1:AudioParam}.exponentialRampToValueAtTime(${2:value}, ${3:endTime});$0'

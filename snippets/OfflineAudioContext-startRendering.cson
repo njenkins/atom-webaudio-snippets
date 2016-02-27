@@ -1,4 +1,4 @@
 '.source.js':
    'Offline Audio Context Start Rendering':
      'prefix': 'waoa'
-     'body': '${1:OfflineAudioContext}.startRendering();'
+     'body': '${1:OfflineAudioContext}.startRendering();$0'

@@ -1,4 +1,4 @@
 '.source.js':
    'Oscillator Node Start':
      'prefix': 'waonsta'
-     'body': '${1:OscillatorNode}.start(${2:when});'
+     'body': '${1:OscillatorNode}.start(${2:when});$0'

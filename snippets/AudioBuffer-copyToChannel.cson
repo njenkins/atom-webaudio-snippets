@@ -1,4 +1,4 @@
 '.source.js':
    'Audio Buffer Copy To Channel':
      'prefix': 'waabctc'
-     'body': '${1:AudioBuffer}.copyToChannel(${2:source}, ${3:channelNumber}, ${4:startInChannel});'
+     'body': '${1:AudioBuffer}.copyToChannel(${2:source}, ${3:channelNumber}, ${4:startInChannel});$0'

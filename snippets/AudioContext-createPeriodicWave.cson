@@ -1,4 +1,4 @@
 '.source.js':
    'Audio Context Create Periodic Wave':
      'prefix': 'waaccpw'
-     'body': '${1:AudioContext}.createPeriodicWave(${2:real}, ${3:imag}, ${4:options});'
+     'body': '${1:AudioContext}.createPeriodicWave(${2:real}, ${3:imag}, ${4:options});$0'

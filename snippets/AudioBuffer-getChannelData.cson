@@ -1,4 +1,4 @@
 '.source.js':
    'Audio Buffer Get Channel Data':
      'prefix': 'waabgcd'
-     'body': '${1:AudioBuffer}.getChannelData(${2:channel});'
+     'body': '${1:AudioBuffer}.getChannelData(${2:channel});$0'

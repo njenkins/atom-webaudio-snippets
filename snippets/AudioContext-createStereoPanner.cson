@@ -1,4 +1,4 @@
 '.source.js':
    'Audio Context Create Stereo Panner':
      'prefix': 'waaccspa'
-     'body': '${1:AudioContext}.createStereoPanner();'
+     'body': '${1:AudioContext}.createStereoPanner();$0'

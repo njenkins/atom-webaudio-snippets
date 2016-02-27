@@ -1,4 +1,4 @@
 '.source.js':
    'Audio Context Suspend':
      'prefix': 'waacsu'
-     'body': '${1:AudioContext}.suspend().then(${2:function() \{ /*stuff here*/ \}});'
+     'body': '${1:AudioContext}.suspend().then(${2:function() \{ /*stuff here*/ \}});$0'

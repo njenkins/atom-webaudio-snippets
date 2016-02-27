@@ -1,4 +1,4 @@
 '.source.js':
    'Audio Context Create Dynamics Compressor':
      'prefix': 'waaccdc'
-     'body': '${1:AudioContext}.createDynamicsCompressor();'
+     'body': '${1:AudioContext}.createDynamicsCompressor();$0'

@@ -1,4 +1,4 @@
 '.source.js':
    'Audio Context Create Script Processor':
      'prefix': 'waaccsp'
-     'body': '${1:AudioContext}.createScriptProcessor(${2:bufferSize}, ${3:numberOfInputChannels}, ${4:numberOfOutputChannels});'
+     'body': '${1:AudioContext}.createScriptProcessor(${2:bufferSize}, ${3:numberOfInputChannels}, ${4:numberOfOutputChannels});$0'

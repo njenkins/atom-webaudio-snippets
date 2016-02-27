@@ -1,4 +1,4 @@
 '.source.js':
    'Analyser Node Get Byte Frequency Data':
      'prefix': 'waangbf'
-     'body': '${1:AnalyserNode}.getByteFrequencyData(${2:dataArray});'
+     'body': '${1:AnalyserNode}.getByteFrequencyData(${2:dataArray});$0'

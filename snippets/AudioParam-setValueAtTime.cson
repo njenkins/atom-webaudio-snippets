@@ -1,4 +1,4 @@
 '.source.js':
    'Audio Param Set Value At Time':
      'prefix': 'waapsvat'
-     'body': '${1:AudioParam}.setValueAtTime(${2:value}, ${3:startTime});'
+     'body': '${1:AudioParam}.setValueAtTime(${2:value}, ${3:startTime});$0'

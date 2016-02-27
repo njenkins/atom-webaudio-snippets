@@ -1,4 +1,4 @@
 '.source.js':
    'Audio Context Create Analyser':
      'prefix': 'waacca'
-     'body': '${1:AudioContext}.createAnalyser();'
+     'body': '${1:AudioContext}.createAnalyser();$0'

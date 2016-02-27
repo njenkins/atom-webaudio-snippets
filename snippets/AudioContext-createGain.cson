@@ -1,4 +1,4 @@
 '.source.js':
    'Audio Context Create Gain':
      'prefix': 'waaccg'
-     'body': '${1:AudioContext}.createGain();'
+     'body': '${1:AudioContext}.createGain();$0'

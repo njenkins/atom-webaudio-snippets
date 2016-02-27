@@ -1,4 +1,4 @@
 '.source.js':
    'Audio Param Linear Ramp To Value At Time':
      'prefix': 'waaplrtv'
-     'body': '${1:AudioParam}.linearRampToValueAtTime(${2:value}, ${3:endTime});'
+     'body': '${1:AudioParam}.linearRampToValueAtTime(${2:value}, ${3:endTime});$0'

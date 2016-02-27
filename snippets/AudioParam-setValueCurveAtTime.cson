@@ -1,4 +1,4 @@
 '.source.js':
    'Audio Param Set Value Curve At Time':
      'prefix': 'waapsvcat'
-     'body': '${1:AudioParam}.setValueCurveAtTime(${2:values}, ${3:startTime}, ${4:duration});'
+     'body': '${1:AudioParam}.setValueCurveAtTime(${2:values}, ${3:startTime}, ${4:duration});$0'

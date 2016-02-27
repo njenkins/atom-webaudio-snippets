@@ -1,4 +1,4 @@
 '.source.js':
    'Audio Context Create Oscillator':
      'prefix': 'waaccos'
-     'body': '${1:AudioContext}.createOscillator();'
+     'body': '${1:AudioContext}.createOscillator();$0'

@@ -1,4 +1,4 @@
 '.source.js':
    'Audio Context Create Media Element Source':
      'prefix': 'waaccme'
-     'body': '${1:AudioContext}.createMediaElementSource(${2:myMediaElement});'
+     'body': '${1:AudioContext}.createMediaElementSource(${2:myMediaElement});$0'
