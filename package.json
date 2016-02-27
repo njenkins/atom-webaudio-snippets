@@ -1,6 +1,6 @@
 {
   "name": "web-audio-api-snippets",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Web Audio API Snippets for Atom",
   "repository": "https://github.com/njenkins/atom-webaudio-snippets.git",
   "license": "MIT",
