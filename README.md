@@ -1,4 +1,7 @@
 # Web Audio API Snippets for Atom
+
+[![Build Status](https://travis-ci.org/njenkins/atom-webaudio-snippets.svg?branch=master)](https://travis-ci.org/njenkins/atom-webaudio-snippets)
+
 Snippets for working with the [Web Audio API](http://www.w3.org/TR/webaudio/) within [Atom](http://atom.io)
 
 ## Installation instructions
