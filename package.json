@@ -2,7 +2,10 @@
   "name": "web-audio-api-snippets",
   "version": "1.0.2",
   "description": "Web Audio API Snippets for Atom",
-  "repository": "https://github.com/njenkins/atom-webaudio-snippets.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njenkins/atom-webaudio-snippets.git"
+  },
   "license": "MIT",
   "keywords": [
     "javascript",
@@ -10,5 +13,19 @@
   ],
   "engines": {
     "atom": ">0.50.0"
+  },
+  "bugs": {
+    "url": "https://github.com/njenkins/atom-webaudio-snippets/issues"
+  },
+  "homepage": "https://github.com/njenkins/atom-webaudio-snippets#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "author": "Nathan Jenkins <web@nathanjenkins.com.au> (http://nathanjenkins.com.au/)",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-lintspaces": "^0.7.4"
   }
 }
