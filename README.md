@@ -131,6 +131,11 @@ ${1:AudioContext}.createDynamicsCompressor();
 ```js
 ${1:AudioContext}.createGain();
 ```
+### createIIRFilter
+#### [waaccii]
+```js
+${1:AudioContext}.createIIRFilter(${2:feedforward}, ${3:feedback});
+```
 ### createMediaElementSource
 #### [waaccme]
 ```js
