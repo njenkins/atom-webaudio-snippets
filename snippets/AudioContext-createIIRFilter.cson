@@ -1,0 +1,4 @@
+'.source.js':
+   'Audio Context Create IIR Filter':
+     'prefix': 'waaccii'
+     'body': '${1:AudioContext}.audioCtx.createIIRFilter(${2:feedforward}, ${3:feedback});$0'
