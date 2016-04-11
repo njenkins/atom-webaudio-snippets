@@ -27,13 +27,12 @@ module.exports = function(grunt) {
             prefixKeys.push(prefixKey);
           }
           else {
-            grunt.log.error(prefixKey + 'already exists');
-            return false;
+            grunt.fail.warn(prefixKey + ' already exists');
           }
         }
-
       }
     });
+    grunt.log.ok('No duplicate prefix keys found in ' + prefixKeys.length + ' files.');
   })
   grunt.registerTask('default', ['prefixconflict','lintspaces']);
 };
