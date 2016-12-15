@@ -1,0 +1,4 @@
+'.source.js':
+   'Audio Context Create Media Stream Track Source':
+     'prefix': 'waaccmsts'
+     'body': '${1:AudioContext}.createMediaStreamTrackSource(${2:streamTrack});$0'
