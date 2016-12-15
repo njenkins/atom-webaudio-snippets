@@ -1,0 +1,4 @@
+'.source.js':
+   'Audio Context Get Output Timestamp':
+     'prefix': 'waacgot'
+     'body': '${1:AudioContext}.getOutputTimestamp();$0'

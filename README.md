@@ -146,11 +146,17 @@ ${1:AudioContext}.createMediaElementSource(${2:myMediaElement});$0
 ```js
 ${1:AudioContext}.createMediaStreamDestination();$0
 ```
-### createMediaStreamsource
+### createMediaStreamSource
 #### [waaccmss]
 ```js
 ${1:AudioContext}.createMediaStreamSource(${2:stream});$0
 ```
+### createMediaStreamTrackSource
+#### [waaccmsts]
+```js
+${1:AudioContext}.createMediaStreamTrackSource(${2:streamTrack});$0
+```
+
 ### createOscillator
 #### [waaccos]
 ```js
@@ -185,6 +191,11 @@ ${1:AudioContext}.createWaveShaper();$0
 #### [waacda]
 ```js
 ${1:AudioContext}.decodeAudioData({2:audioData}).then(${3:function(decodedData) \{/* stuff here*/\}});$0
+```
+### getOutputTimestamp
+#### [waacgot]
+```js
+${1:AudioContext}.getOutputTimestamp();$0
 ```
 ### resume
 #### [waacr]
