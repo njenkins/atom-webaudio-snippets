@@ -263,10 +263,21 @@ ${1:AudioParam}.setValueCurveAtTime(${2:values}, ${3:startTime}, ${4:duration});
 ${1:BiquadFilterNode}.getFrequencyResponse(${2:freqHz}, ${3:magResponse}, ${4:phaseResponse});$0
 ```
 ## Offline Audio Context
+### resume
+#### [waoacr]
+```js
+${1:OfflineAudioContext}.resume();$0
+```
+
 ### startRendering
 #### [waoa]
 ```js
 ${1:OfflineAudioContext}.startRendering();$0
+```
+### suspend
+#### [waoacs]
+```js
+${1:OfflineAudioContext}.suspend(${2:suspendTime});$0
 ```
 
 ## Oscillator Node

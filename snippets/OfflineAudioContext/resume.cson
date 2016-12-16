@@ -1,0 +1,4 @@
+'.source.js':
+   'Offline Audio Context Resume':
+     'prefix': 'waoacr'
+     'body': '${1:OfflineAudioContext}.resume();$0'

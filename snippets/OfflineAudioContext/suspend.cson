@@ -1,0 +1,4 @@
+'.source.js':
+   'Offline Audio Context Suspend':
+     'prefix': 'waoacs'
+     'body': '${1:OfflineAudioContext}.suspend(${2:suspendTime});$0'
