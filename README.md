@@ -261,6 +261,23 @@ ${1:AudioParam}.setValueAtTime(${2:value}, ${3:startTime});$0
 ```js
 ${1:AudioParam}.setValueCurveAtTime(${2:values}, ${3:startTime}, ${4:duration});$0
 ```
+## Audio Worker
+### addParameter
+#### [waawap]
+```js
+${1:AudioWorker}.addParameter(${2:name}, ${3:defaultValue});$0
+```
+### createNode
+#### [waawcn]
+```js
+${1:AudioWorker}.createNode(${2:numberOfInputs}, ${3:numberOfOutputs});$0
+```
+### removeParameter
+#### [waawrp]
+```js
+${1:AudioWorker}.removeParameter(${2:name});$0
+```
+
 ## Biquad Filter Node
 ### getFrequencyResponse
 #### [wabf]
