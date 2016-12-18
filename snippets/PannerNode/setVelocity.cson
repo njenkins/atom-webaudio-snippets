@@ -1,0 +1,4 @@
+'.source.js':
+   'Panner Node Set Velocity':
+     'prefix': 'wapnsv'
+     'body': '${1:PannerNode}.setVelocity(${2:x}, ${3:y}, ${4:z});$0'

@@ -307,3 +307,8 @@ ${1:PannerNode}.setOrientation(${2:x}, ${3:y}, ${4:z});$0
 ```js
 ${1:PannerNode}.setPosition(${2:x}, ${3:y}, ${4:z});$0
 ```
+### setVelocity
+#### [wapnsv]
+```js
+${1:PannerNode}.setVelocity(${2:x}, ${3:y}, ${4:z});$0
+```
