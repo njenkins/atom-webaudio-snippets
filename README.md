@@ -213,6 +213,11 @@ ${1:AudioContext}.suspend().then(${2:function() \{ /*stuff here*/ \}});$0
 ```js
 ${1:AudioListener}.setOrientation(${2:frontX},${3:frontY},${4:frontZ},${5:upX},${6:upY},${7:upZ});$0
 ```
+### setPosition
+#### [waalsp]
+```js
+${1:AudioListener}.setPosition(${2:x},${3:y},${4:z});$0
+```
 ## Audio Node
 ### Connect
 #### [waanc]

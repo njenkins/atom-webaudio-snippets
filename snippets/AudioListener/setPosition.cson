@@ -1,0 +1,4 @@
+'.source.js':
+   'Audio Listener Set Position':
+     'prefix': 'waalsp'
+     'body': '${1:AudioListener}.setPosition(${2:x}, ${3:y}, ${4:z});$0'
