@@ -1,4 +1,4 @@
 '.source.js':
    'Audio Worker Remove Parameter':
      'prefix': 'waawrp'
-     'body': 'TODO'
+     'body': '${1:AudioWorker}.removeParameter(${2:name});$0'

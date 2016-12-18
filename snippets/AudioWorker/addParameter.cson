@@ -1,4 +1,4 @@
 '.source.js':
-   'Audio worker Add Parameter':
+   'Audio Worker Add Parameter':
      'prefix': 'waawap'
-     'body': 'TODO'
+     'body': '${1:AudioWorker}.addParameter(${2:name}, ${3:defaultValue});$0'

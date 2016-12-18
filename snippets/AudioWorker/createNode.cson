@@ -1,4 +1,4 @@
 '.source.js':
    'Audio Worker Create Node':
      'prefix': 'waawcn'
-     'body': 'TODO'
+     'body': '${1:AudioWorker}.createNode(${2:numberOfInputs}, ${3:numberOfOutputs});$0'
