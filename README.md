@@ -267,6 +267,13 @@ ${1:AudioParam}.setValueCurveAtTime(${2:values}, ${3:startTime}, ${4:duration});
 ```js
 ${1:BiquadFilterNode}.getFrequencyResponse(${2:freqHz}, ${3:magResponse}, ${4:phaseResponse});$0
 ```
+## IIR Filter Node
+### getFrequencyResponse
+#### [wabf]
+```js
+${1:IIRFilterNode}.getFrequencyResponse(${2:freqHz}, ${3:magResponse}, ${4:phaseResponse});$0
+```
+
 ## Offline Audio Context
 ### resume
 #### [waoacr]
