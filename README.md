@@ -116,6 +116,11 @@ ${1:AudioContext}.createChannelSplitter(${2:numOfInputs});$0
 ```js
 ${1:AudioContext}.createConvolver();$0
 ```
+### createConstandSource
+#### [waacccs]
+```js
+${1:AudioContext}.createConstantSource();$0
+```
 ### createDelay
 #### [waaccd]
 ```js
